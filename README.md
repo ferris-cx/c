@@ -1,10 +1,10 @@
 # Learning C language project.Basic learning for beginners.  
 ---  
 ## The list of skills is as follows：  
-### char int  
-### String   
-### array  
-### function  
+#### char int  
+#### String   
+#### array  
+#### function  
 ### struct  
 ### pointer:function pointer,pointer function  
 ### Cpreprocesser  
