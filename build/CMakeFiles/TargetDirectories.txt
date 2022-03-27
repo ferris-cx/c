@@ -1,0 +1,3 @@
+D:/code/C/study/Thread/build/CMakeFiles/Thread.dir
+D:/code/C/study/Thread/build/CMakeFiles/ALL_BUILD.dir
+D:/code/C/study/Thread/build/CMakeFiles/ZERO_CHECK.dir

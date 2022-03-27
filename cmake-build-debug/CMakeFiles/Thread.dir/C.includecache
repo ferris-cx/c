@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/code/C/study/Thread/ThreadTest.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+pthread.h
+-
+windows.h
+-
+unistd.h
+-
+sys/types.h
+-
+student.h
+D:/code/C/study/Thread/student.h
+
+D:/code/C/study/Thread/student.h
+
