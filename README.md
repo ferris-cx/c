@@ -1,6 +1,6 @@
-#Learning C language project.Basic learning for beginners.
----
-##The list of skills is as follows：
+#Learning C language project.Basic learning for beginners.  
+---  
+##The list of skills is as follows：  
 ##char int 
 ##String
 ##array
